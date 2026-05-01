@@ -1,5 +1,5 @@
-short_name = "hexyn"
-name = "Hexyn Studio"
+short_name = "proxima"
+name = "Proxima Engine"
 major = 4
 minor = 7
 patch = 0
