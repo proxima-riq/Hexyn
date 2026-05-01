@@ -1,9 +1,9 @@
-short_name = "godot"
-name = "Godot Engine"
+short_name = "hexyn"
+name = "Hexyn Studio"
 major = 4
 minor = 7
 patch = 0
 status = "beta"
 module_config = ""
-website = "https://godotengine.org"
+website = "https://proxima-riq.github.io/Hexyn"
 docs = "latest"
